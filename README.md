@@ -21,4 +21,4 @@ https://github.com/pablo-arantes/making-it-rain/issues/79
 https://github.com/quantaosun/Ambertools-OpenMM-MD/issues/1
 
 # Reference codebase
-[Google colab](https://colab.research.google.com/drive/1OAF63N47PNpxuVR12RSqxEuznS6IjDM9#scrollTo=H-oBjHKEBPJY)
+[Google colab](https://colab.research.google.com/drive/1WDVIl5aHayk1_4BEbi27ZSBo7tDQcZ28?usp=share_link)
